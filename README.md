@@ -6,12 +6,17 @@ MakeMyEventSpecial is a hotel(event) booking application that features three mai
 
 I have provided the code but here you have to enter personal details to run the code. First in FireStore you have to put the private key(.json file) in resourses and give its address in the code. To get the private key, follow these steps:
 
--Go to FireBase console and signup
--Create a project and give the appropriate name
--Now click on settings icon and inside project setting, there is option of Service accounts
--Select 'java' and generate key
--put that downloaded private key in resources folder
--Second for Twilio API, you need four things:
+=> Go to FireBase console and signup
+
+=> Create a project and give the appropriate name
+
+=> Now click on settings icon and inside project setting, there is option of Service accountsSelect 'java' and generate key
+
+=> put that downloaded private key in resources folder
+
+=> Second for Twilio API, you need four things:
+
+
 
 1. Twilio Phone Number - you will get that when you register for Twilio
 2. Account SID - present in Account Info
@@ -25,4 +30,5 @@ Team Members:
 2. Prajwal Pravin Desai
 3. Parth Pritam Patil
 4. Onkar Vikas Pawar
+   
 Thats all, Thank you!
